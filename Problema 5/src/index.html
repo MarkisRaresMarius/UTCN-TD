@@ -2,10 +2,24 @@
 <html>
     <head></head>
 
+
     <body>
-        <input type=" text " id="n" value="5" />
+    <div class="calculator">
+        <input type="text" id="n" value="5"/>
+        <h1 id="operationSign">+</h1>
+        <input type="text" id="m" value="5"/>
 
         <script src="app.js"></script>
         <script src="appTest.js"></script>
+
+    </div>
+    <div>
+        <button id="sum" onclick="sumFunc">+</button>
+        <button id="rest" onclick="sumFunc">-</button>
+        <button id="prod" onclick="sumFunc">*</button>
+        <button id="cat" onclick="sumFunc" >/</button>
+
+
+    </div>
     </body>
 </html>
