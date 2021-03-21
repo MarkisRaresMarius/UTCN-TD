@@ -1,11 +1,11 @@
 
-document.getElementById('n').addEventListener('input', inputSum);
+document.getElementById('n').addEventListener('input',inputSum);
 
 
 function inputSum() {
 
   var inputNumber = parseInt(document.getElementById('n').value);
-  sum(inputNumber);
+  console.log(sum(inputNumber));
 
 }
 

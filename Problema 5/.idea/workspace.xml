@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b44bb290-1e78-4850-bb72-1b49da658ad3" name="Default Changelist" comment="" />
+    <list default="true" id="b44bb290-1e78-4850-bb72-1b49da658ad3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Problema 3/src.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Problema 4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Problema 4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Problema 4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Problema 4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Problema 4/Problema 4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Problema 4/src/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Problema 4/src/appTest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Problema 4/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problema 5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problema 2/out/production/Problema 2/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problema 2/out/production/Problema 2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problema 2/out/production/Problema 2/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problema1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problema1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problema1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problema1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problema1/problema1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problema 1/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Problema 1/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problema 1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Problema 1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problema 3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Problema 3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problema 3/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Problema 3/src/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problema 3/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Problema 3/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problema 2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +56,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -50,5 +79,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
