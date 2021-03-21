@@ -1,0 +1,11 @@
+{
+  "name": "client",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "live-server --port=4200"
+  },
+  "dependencies": {
+    "http-server": "^0.12.3",
+    "live-server": "^1.2.1"
+  }
+}
